@@ -1,0 +1,16 @@
+(
+          name: "UnitTest2",
+       summary: "Improved sclang unit testing framework",
+        author: "Scott Carver",
+     copyright: "2022",
+       license: "MIT",
+       version: "0.0.1",
+        schelp: "",
+          test: "",
+           url: "",
+  dependencies: [
+
+                ],
+  isCompatible: false,
+         since: ""
+)
